@@ -1,0 +1,11 @@
+name = "LatPhysPlottingPlots"
+uuid = "6d5420a0-b2b7-11e9-1bca-bb37ee9b6c2a"
+authors = ["Carsten Bauer <crstnbr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LatPhysBase = "eec5c15a-e8bd-11e8-0d23-6799ca40c963"
+LatPhysLatticeConstruction = "ec4de012-e8d7-11e8-3fed-dfe576d3bbe4"
+LatPhysUnitcellLibrary = "9ab7acfc-e8ca-11e8-283d-b33250f7e765"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
