@@ -7,6 +7,13 @@ version = "0.1.0"
 LatPhysBase = "eec5c15a-e8bd-11e8-0d23-6799ca40c963"
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 
+[compat]
+LatPhysBase = "0.1"
+RecipesBase = "0.7"
+Plots = "0.27"
+LatPhysLatticeConstruction = "0.1"
+LatPhysUnitcellLibrary = "0.1"
+
 
 [extras]
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
